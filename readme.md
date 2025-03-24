@@ -3,12 +3,6 @@
 
 [Origins Source](https://github.com/apace100/origins-fabric)
 
-# Spilaio Origins
+# Cave Origins
 
-[Spilaio CurseForge](https://www.curseforge.com/minecraft/mc-mods/spilaio-origins)
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## i am bad at naming things
+[Cave Origins CurseForge](https://www.curseforge.com/minecraft/mc-mods/cave-origins)
